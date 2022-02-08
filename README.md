@@ -1,6 +1,6 @@
 ## Gran Turismo Sophy Supplementary Material
 
-This collection of videos is provided as supplemental material for the paper [Outracing champion Gran Turismo drivers with deep reinforcement learning](https://urldefense.com/v3/__https:/www.nature.com/articles/s41586-021-04357-7__;!!JmoZiZGBv3RvKRSx!t29GYYkw8Q0tLdJce69riyTg0luAzpcYx28cT8al_0dljnvUzurh7mOVpnkcDx6i$), published in [Nature, February 10, 2022](https://www.nature.com/nature/volumes/602/issues/7896).
+This collection of videos is provided as supplemental material for the paper [Outracing champion Gran Turismo drivers with deep reinforcement learning](https://www.nature.com/articles/s41586-021-04357-7), published in [Nature, February 10, 2022](https://www.nature.com/nature/volumes/602/issues/7896).
 
 On October 20th, 2021, four instances of Gran Turismo Sophy raced four of the top human drivers of Gran Turismo™ Sport. These videos show the performance of each instance of Gran Turismo Sophy in each of the three races and are provided as source data to the paper. To learn more about Sony AI and the GT Sophy project, including race videos with announcers, multiple camera angles and replays, please visit the [Gran Turisimo Sophy project website](https://www.gran-turismo.com/world/gran-turismo-sophy/).
 
