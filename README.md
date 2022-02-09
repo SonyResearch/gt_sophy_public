@@ -98,5 +98,5 @@ On October 20th, 2021, four instances of Gran Turismo Sophy raced four of the to
 
 <footer>
  <p>© 2019 Sony Interactive Entertainment Inc. Developed by Polyphony Digital Inc.<br>
-Manufacturers, cars, names, brands and associated imagery featured in this game in some cases include trademarks and/or copyrighted materials of their respective owners. All rights reserved. Any depiction or recreation of real world locations, entities, businesses, or organizations is not intended to be or imply any sponsorship or endorsement of this game by such party or parties. "Gran Turismo" logos are registered trademarks or trademarks of Sony Interactive Entertainment Inc.</p>
+Manufacturers, cars, names, brands and associated imagery featured in this game in some cases include trademarks and/or copyrighted materials of their respective owners. All rights reserved. Any depiction or recreation of real world locations, entities, businesses, or organizations is not intended to be or imply any sponsorship or endorsement of this game by such party or parties. "Gran Turismo" logos are registered trademarks of Sony Interactive Entertainment Inc.</p>
 </footer>
