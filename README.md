@@ -11,24 +11,24 @@ On October 20th, 2021, four instances of Gran Turismo Sophy raced four of the to
     <tr>
         <td>
           <video controls preload=metadata width="325" height="175">
-            <source src="https://media.githubusercontent.com/media/SonyAI/gt_sophy_public/main/2021-10-21-RACE_TOGETHER-Seaside-01_Bordeaux.mp4" type="video/mp4">
+            <source src="https://media.githubusercontent.com/media/SonyResearch/gt_sophy_public/main/2021-10-21-RACE_TOGETHER-Seaside-01_Bordeaux.mp4" type="video/mp4">
           </video><p style="text-align:center;">GT Sophy - Bordeaux</p>
         </td>
         <td>
           <video controls preload=metadata width="325" height="175">
-            <source src="https://media.githubusercontent.com/media/SonyAI/gt_sophy_public/main/2021-10-21-RACE_TOGETHER-Seaside-03_Violette.mp4" type="video/mp4">
+            <source src="https://media.githubusercontent.com/media/SonyResearch/gt_sophy_public/main/2021-10-21-RACE_TOGETHER-Seaside-03_Violette.mp4" type="video/mp4">
             </video><p style="text-align:center;">GT Sophy - Violette</p>
         </td>
     </tr>
     <tr>
     <td>
       <video controls preload=metadata width="325" height="175">
-        <source src="https://media.githubusercontent.com/media/SonyAI/gt_sophy_public/main/2021-10-21-RACE_TOGETHER-Seaside-05_Verte.mp4" type="video/mp4">
+        <source src="https://media.githubusercontent.com/media/SonyResearch/gt_sophy_public/main/2021-10-21-RACE_TOGETHER-Seaside-05_Verte.mp4" type="video/mp4">
         </video><p style="text-align:center;">GT Sophy - Verte</p>
     </td>
     <td>
       <video controls preload=metadata width="325" height="175">
-        <source src="https://media.githubusercontent.com/media/SonyAI/gt_sophy_public/main/2021-10-21-RACE_TOGETHER-Seaside-07_Noire.mp4" type="video/mp4">
+        <source src="https://media.githubusercontent.com/media/SonyResearch/gt_sophy_public/main/2021-10-21-RACE_TOGETHER-Seaside-07_Noire.mp4" type="video/mp4">
         </video><p style="text-align:center;">GT Sophy - Noire</p>
     </td>
     </tr>
@@ -42,24 +42,24 @@ On October 20th, 2021, four instances of Gran Turismo Sophy raced four of the to
     <tr>
         <td>
           <video controls preload=metadata width="325" height="175">
-            <source src="https://media.githubusercontent.com/media/SonyAI/gt_sophy_public/main/2021-10-21-RACE_TOGETHER-Maggiore-01_Rouge.mp4" type="video/mp4">
+            <source src="https://media.githubusercontent.com/media/SonyResearch/gt_sophy_public/main/2021-10-21-RACE_TOGETHER-Maggiore-01_Rouge.mp4" type="video/mp4">
           </video><p style="text-align:center;">GT Sophy - Rouge</p>
         </td>
         <td>
           <video controls preload=metadata width="325" height="175">
-            <source src="https://media.githubusercontent.com/media/SonyAI/gt_sophy_public/main/2021-10-21-RACE_TOGETHER-Maggiore-03_Lavande.mp4" type="video/mp4">
+            <source src="https://media.githubusercontent.com/media/SonyResearch/gt_sophy_public/main/2021-10-21-RACE_TOGETHER-Maggiore-03_Lavande.mp4" type="video/mp4">
             </video><p style="text-align:center;">GT Sophy - Lavande</p>
         </td>
     </tr>
     <tr>
     <td>
       <video controls preload=metadata width="325" height="175">
-        <source src="https://media.githubusercontent.com/media/SonyAI/gt_sophy_public/main/2021-10-21-RACE_TOGETHER-Maggiore-05_Emeraude.mp4" type="video/mp4">
+        <source src="https://media.githubusercontent.com/media/SonyResearch/gt_sophy_public/main/2021-10-21-RACE_TOGETHER-Maggiore-05_Emeraude.mp4" type="video/mp4">
         </video><p style="text-align:center;">GT Sophy - Emeraude</p>
     </td>
     <td>
       <video controls preload=metadata width="325" height="175">
-        <source src="https://media.githubusercontent.com/media/SonyAI/gt_sophy_public/main/2021-10-21-RACE_TOGETHER-Maggiore-07_Grise.mp4" type="video/mp4">
+        <source src="https://media.githubusercontent.com/media/SonyResearch/gt_sophy_public/main/2021-10-21-RACE_TOGETHER-Maggiore-07_Grise.mp4" type="video/mp4">
         </video><p style="text-align:center;">GT Sophy - Grise</p>
     </td>
     </tr>
@@ -72,24 +72,24 @@ On October 20th, 2021, four instances of Gran Turismo Sophy raced four of the to
     <tr>
         <td>
           <video controls preload=metadata width="325" height="175">
-            <source src="https://media.githubusercontent.com/media/SonyAI/gt_sophy_public/main/2021-10-21-RACE_TOGETHER-Sarthe_1-01_Orange.mp4" type="video/mp4">
+            <source src="https://media.githubusercontent.com/media/SonyResearch/gt_sophy_public/main/2021-10-21-RACE_TOGETHER-Sarthe_1-01_Orange.mp4" type="video/mp4">
           </video><p style="text-align:center;">GT Sophy - Orange</p>
         </td>
         <td>
           <video controls preload=metadata width="325" height="175">
-            <source src="https://media.githubusercontent.com/media/SonyAI/gt_sophy_public/main/2021-10-21-RACE_TOGETHER-Sarthe_1-03_Bleue.mp4" type="video/mp4">
+            <source src="https://media.githubusercontent.com/media/SonyResearch/gt_sophy_public/main/2021-10-21-RACE_TOGETHER-Sarthe_1-03_Bleue.mp4" type="video/mp4">
             </video><p style="text-align:center;">GT Sophy - Bleue</p>
         </td>
     </tr>
     <tr>
     <td>
       <video controls preload=metadata width="325" height="175">
-        <source src="https://media.githubusercontent.com/media/SonyAI/gt_sophy_public/main/2021-10-21-RACE_TOGETHER-Sarthe_1-05_Jaune.mp4" type="video/mp4">
+        <source src="https://media.githubusercontent.com/media/SonyResearch/gt_sophy_public/main/2021-10-21-RACE_TOGETHER-Sarthe_1-05_Jaune.mp4" type="video/mp4">
         </video><p style="text-align:center;">GT Sophy - Jaune</p>
     </td>
     <td>
       <video controls preload=metadata width="325" height="175">
-        <source src="https://media.githubusercontent.com/media/SonyAI/gt_sophy_public/main/2021-10-21-RACE_TOGETHER-Sarthe_1-07_Blanche.mp4" type="video/mp4">
+        <source src="https://media.githubusercontent.com/media/SonyResearch/gt_sophy_public/main/2021-10-21-RACE_TOGETHER-Sarthe_1-07_Blanche.mp4" type="video/mp4">
         </video><p style="text-align:center;">GT Sophy - Blanche</p>
     </td>
     </tr>
